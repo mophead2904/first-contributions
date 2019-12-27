@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mohamed El Amri](https://github.com/elamrimohamed)
@@ -2046,6 +2046,7 @@ Haris Siddiqui
 - Sifon Isaac
 - [Graham Guthrie](https://github.com/grahamguthrie99)
 - Anshuman Singh
+- [Alex] (https://github.com/mophead2904)
 - Steefan Raveenthiran
   [Soumyajit Deb]
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
